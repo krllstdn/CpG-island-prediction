@@ -1,4 +1,4 @@
-# CpG Island prediction with Markov Models
+# 🧬 CpG Island prediction with Markov Models
 CpG islands are DNA regions with a high frequency of CG dinucleotides, commonly found near the start of genes, particularly in promoter regions. Their presence can indicate transcription start sites and play a key role in gene regulation and epigenetic control. This project applies simple Markov models to detect CpG islands by modeling sequence transitions
 
 ## Key Components:
